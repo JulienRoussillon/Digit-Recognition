@@ -4,7 +4,7 @@ The goal of this project is to train a neural network to identify handwritten di
 
 # Neural Network used
 
-We implement a simple Convolutional Neural Network (CNN) inspires from LeNet, which was developed by LeCun and al. in 1989. More precisely, our CNN consists of three convolutional layers, and three fully connected layers. The last step is a softmax function which decides between ten possible outcomes.
+We implement a simple Convolutional Neural Network (CNN) using PyTorch. This CNN is inspired from LeNet, which was developed by LeCun and al. in 1989. More precisely, our CNN consists of three convolutional layers, and three fully connected layers. The last step is a softmax function which decides between ten possible outcomes.
 
 # Accuracy
 
